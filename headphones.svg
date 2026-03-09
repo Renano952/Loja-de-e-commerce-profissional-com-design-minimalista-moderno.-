@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#f5f5f5"/>
+  <!-- Left earphone -->
+  <ellipse cx="130" cy="160" rx="35" ry="50" fill="#1a1a1a"/>
+  <circle cx="130" cy="220" r="25" fill="#1a1a1a"/>
+  <!-- Right earphone -->
+  <ellipse cx="270" cy="160" rx="35" ry="50" fill="#1a1a1a"/>
+  <circle cx="270" cy="220" r="25" fill="#1a1a1a"/>
+  <!-- Case -->
+  <rect x="160" y="280" width="80" height="60" fill="#1a1a1a" rx="8"/>
+</svg>

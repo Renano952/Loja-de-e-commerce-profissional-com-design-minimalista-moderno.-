@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#f5f5f5"/>
+  <!-- Screen -->
+  <rect x="80" y="60" width="240" height="180" fill="#1a1a1a" rx="8"/>
+  <rect x="95" y="75" width="210" height="150" fill="#666666"/>
+  <!-- Keyboard -->
+  <rect x="100" y="260" width="200" height="100" fill="#1a1a1a" rx="5"/>
+  <!-- Keys pattern -->
+  <rect x="110" y="270" width="15" height="12" fill="#666" rx="2"/>
+  <rect x="130" y="270" width="15" height="12" fill="#666" rx="2"/>
+  <rect x="150" y="270" width="15" height="12" fill="#666" rx="2"/>
+</svg>
