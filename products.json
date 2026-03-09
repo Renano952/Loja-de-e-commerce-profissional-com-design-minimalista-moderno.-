@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro Max",
+    "category": "smartphones",
+    "price": 7999.00,
+    "description": "Smartphone de última geração com câmera profissional",
+    "image": "https://images.unsplash.com/photo-1511707267537-b85faf00021e?w=400&h=400&fit=crop",
+    "rating": 4.8,
+    "reviews": 324
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24",
+    "category": "smartphones",
+    "price": 6499.00,
+    "description": "Tela AMOLED 6.1\" com taxa de atualização 120Hz",
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf7ce3350?w=400&h=400&fit=crop",
+    "rating": 4.7,
+    "reviews": 287
+  },
+  {
+    "id": 3,
+    "name": "MacBook Pro M3",
+    "category": "outros",
+    "price": 12999.00,
+    "description": "Laptop profissional com processador Apple M3",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&h=400&fit=crop",
+    "rating": 4.9,
+    "reviews": 412
+  },
+  {
+    "id": 4,
+    "name": "Sony WH-1000XM5",
+    "category": "audio",
+    "price": 2299.00,
+    "description": "Fones com cancelamento de ruído ativo premium",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop",
+    "rating": 4.8,
+    "reviews": 556
+  },
+  {
+    "id": 5,
+    "name": "iPad Air 6",
+    "category": "smartphones",
+    "price": 4999.00,
+    "description": "Tablet 11\" com chip M2 e Apple Pencil",
+    "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=400&h=400&fit=crop",
+    "rating": 4.7,
+    "reviews": 193
+  },
+  {
+    "id": 6,
+    "name": "AirPods Pro 2",
+    "category": "audio",
+    "price": 1899.00,
+    "description": "Fones wireless com áudio espacial e cancelamento ativo",
+    "image": "https://images.unsplash.com/photo-1487214078519-e21cc028cb29?w=400&h=400&fit=crop",
+    "rating": 4.6,
+    "reviews": 723
+  },
+  {
+    "id": 7,
+    "name": "Samsung Buds2 Pro",
+    "category": "audio",
+    "price": 1299.00,
+    "description": "Fones com isolamento inteligente de som",
+    "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=400&h=400&fit=crop",
+    "rating": 4.5,
+    "reviews": 412
+  },
+  {
+    "id": 8,
+    "name": "Google Pixel 9 Pro",
+    "category": "smartphones",
+    "price": 5999.00,
+    "description": "Smartphone com melhor câmera computacional do mercado",
+    "image": "https://images.unsplash.com/photo-1511296628318-cc06b606c0b7?w=400&h=400&fit=crop",
+    "rating": 4.7,
+    "reviews": 334
+  },
+  {
+    "id": 9,
+    "name": "Carregador Rápido USB-C 65W",
+    "category": "acessorios",
+    "price": 189.00,
+    "description": "Carregador universal para todos os dispositivos",
+    "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "rating": 4.5,
+    "reviews": 267
+  },
+  {
+    "id": 10,
+    "name": "Cabo Lightning Original Apple",
+    "category": "acessorios",
+    "price": 89.00,
+    "description": "Cabo durável com certificação MFi",
+    "image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=400&h=400&fit=crop",
+    "rating": 4.4,
+    "reviews": 534
+  },
+  {
+    "id": 11,
+    "name": "Suporte Magnético para Celular",
+    "category": "acessorios",
+    "price": 49.00,
+    "description": "Suporte universal com base magnética",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=400&fit=crop",
+    "rating": 4.3,
+    "reviews": 189
+  },
+  {
+    "id": 12,
+    "name": "Capa Protetora iPhone 15",
+    "category": "acessorios",
+    "price": 79.00,
+    "description": "Capa transparente antichoque com bordas reforçadas",
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=400&h=400&fit=crop",
+    "rating": 4.6,
+    "reviews": 421
+  },
+  {
+    "id": 13,
+    "name": "Smartwatch Apple Watch Ultra",
+    "category": "outros",
+    "price": 5499.00,
+    "description": "Relógio inteligente resistente com tela sempre ligada",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=400&fit=crop",
+    "rating": 4.8,
+    "reviews": 298
+  },
+  {
+    "id": 14,
+    "name": "Tablet Samsung Galaxy Tab S10",
+    "category": "smartphones",
+    "price": 3499.00,
+    "description": "Tablet 11.6\" com S Pen incluído",
+    "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=400&h=400&fit=crop",
+    "rating": 4.6,
+    "reviews": 156
+  },
+  {
+    "id": 15,
+    "name": "Protetor Tela Vidro Temperado",
+    "category": "acessorios",
+    "price": 29.00,
+    "description": "Protetor premium com 9H de dureza",
+    "image": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "rating": 4.4,
+    "reviews": 892
+  }
+]
